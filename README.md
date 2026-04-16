@@ -1,3 +1,7 @@
+## 📸 Project Demo
+
+![App Screenshot](frontend/screenshot.png)
+
 # ⚡ AI-Based Component Failure Prediction System
 
 ## 📌 Overview
