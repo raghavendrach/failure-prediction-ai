@@ -2,7 +2,8 @@
 
 ![App Screenshot](frontend/frontend-screenshot.png)
 
-# ⚡ AI-Based Component Failure Prediction System
+# ⚡Deep Learning-Based Predictive Maintanance System 
+ 
 
 ## 📌 Overview
 
